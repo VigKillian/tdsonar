@@ -1,6 +1,6 @@
 # TDsonar
 
-test !!!!!!
+Test mais en éditant directement à partir de VSC
 
 ## Getting started
 
